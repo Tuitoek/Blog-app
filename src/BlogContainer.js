@@ -8,7 +8,8 @@ class BlogContainer extends React.Component{
         <h1> Hello from Create React App </h1>
         <p> I am in a React Component</p>
         <p>This is awesome</p>
-        <P>So freaking awesome </p>
+        <p>So freaking awesome </p>
+
         </div>
     )}
 }
