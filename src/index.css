@@ -56,6 +56,10 @@ code {
   border: none;
 }
 
+.button:hover{
+  background-color: rgb(28, 80, 200);
+  }
+
 
 .profilePage{
   background: #ccc;
@@ -96,4 +100,5 @@ code {
   margin-bottom: 4rem;
   padding: 2rem 4rem;
   border-radius: 20px;
+
 }
